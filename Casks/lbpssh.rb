@@ -1,6 +1,6 @@
 cask "lbpssh" do
-  version "v1.7.3"
-  sha256 "59fef6340a848776764a2567753340c8bd9c04534902211ebe2297026f81f54c"
+  version "v1.8.0"
+  sha256 "1b7d843d55afee5daaf26a0575456d2a73990ff421e544b392aaabe3e0be8ae9"
 
   url "https://github.com/lbp0200/lbpssh/releases/download/#{version}/lbpSSH-macos-universal.zip"
   name "lbpSSH"
